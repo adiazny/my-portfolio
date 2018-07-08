@@ -1,2 +1,3 @@
-# my-portfolio
-My professional portfolio
+# Alan Diaz's Portfolio
+
+This is my professional portfolio using AWS and ReachJS technologies.
