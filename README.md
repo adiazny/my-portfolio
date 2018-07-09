@@ -7,4 +7,8 @@ This is my professional portfolio using AWS and ReachJS technologies.
 Brew
 Git and Github
 SSH
+HTML
+CSS
+Font Awesome
+Google Fonts
 
