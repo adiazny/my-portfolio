@@ -1,6 +1,6 @@
 # Alan Diaz's Portfolio
 
-This is my professional portfolio using AWS and ReachJS technologies.
+This is my professional portfolio using AWS and ReactJS technologies.
 
 ## Technologies Used
 
