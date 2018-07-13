@@ -11,4 +11,15 @@ HTML
 CSS
 Font Awesome
 Google Fonts
+SSL Certificates
+
+AWS Route53
+AWS S3
+AWS CloudFront
+AWS Certificate Managment
+AWS Codebuild
+AWS Lambda
+AWS CodePipeline
+
+
 
