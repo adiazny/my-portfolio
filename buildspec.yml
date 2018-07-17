@@ -8,6 +8,6 @@ artifacts:
   files:
     - index.html
     - favicon.ico
-    - Alan_Diaz_Resume_v09152017.pdf
+    - 2018_Resume_v1.PDF
     - styles/main.css
     - images/*
